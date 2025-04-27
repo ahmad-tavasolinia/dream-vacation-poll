@@ -1,6 +1,15 @@
 # Dream Vacation Poll 
 This is a simple Python program that asks users about their dream vacation destinations and stores the answers.
 
+## About this project
+**Note:**  
+This is one of my **earliest Python programs**.  
+I'm sharing it to document my **learning journey** from the very beginning.  
+I look forward to improving my skills over time and growing as a developer!
+
+## Why I made it
+I'm practicing my early Python skills and learning Git and GitHub!
+
 ## Features
 - Collects user input
 - Stores user responses in a dictionary
